@@ -1,4 +1,4 @@
-beaglebone-xenomai_3.8
-======================
+BeagleBone Black-Xenomai
+========================
 
-Get your BeagleBone Black running in real-time!
+For a full set of instructions on how to use this material, please see <a href="http://yapatel.org/xenomai_bb.html">Xenomai on BB Guide.</a>!
