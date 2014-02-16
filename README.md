@@ -45,3 +45,7 @@ Install Kernel Image to SD card: (requires MMC set in system.sh)
 Development/Hacking:
 
 first run (to setup baseline tree): ./build_kernel.sh then modify files under KERNEL directory then run (to rebuild with your changes): ./tools/rebuild.sh
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yapatel/beagleboneblack-xenomai/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
